@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://person.maples31.com/sitemap.xml
